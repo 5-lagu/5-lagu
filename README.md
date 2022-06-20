@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lars
 - 🏢 I'm currently working for The Norwegian Agency for Public and Financial Management (DFØ)
 - 👀 I’m interested in SQL, C#, Ruby, Mac, audio and synthesizers.
-- 🌱 I’m currently learning C#, Docker and Python
+- 🌱 I’m currently learning C#, Docker and GitHub Actions
 - 📫 How to reach me: larsgustav.gudbrandsen@dfo.no
 
 <!---
