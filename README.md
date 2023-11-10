@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lars
-- 🏢 I'm currently working for The Norwegian Agency for Public and Financial Management (DFØ)
-- 👀 I’m interested in SQL, C#, Macs, digital audio and analog synthesizers
-- 🌱 I’m currently learning all the things
+- 🏢 I'm currently as a developer working for The Norwegian Agency for Public and Financial Management
+- 👀 I’m interested in C#, Go, Macs, synthesizers, digital and analog audio
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: larsgustav.gudbrandsen@dfo.no
 
 <!---
