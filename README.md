@@ -3,7 +3,6 @@
 - 👀 I’m interested in C#, Go, Macs, synthesizers, digital and analog audio
 - 🌱 I’m currently learning C# and Go
 - 📫 How to reach me: larsgustav.gudbrandsen@dfo.no
-- lagu@vivaldi.social: <a rel="me" href="https://social.vivaldi.net/@lagu">Mastodon</a>
 
 <!---
 5-lagu/5-lagu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
