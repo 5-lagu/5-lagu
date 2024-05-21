@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lars
 - 🏢 I'm currently working as a developer for The Norwegian Agency for Public and Financial Management
-- 👀 I’m interested in C#, Go, Macs, synthesizers, digital and analog audio
+- 👀 I’m interested in programming, macOS, retro computing, synthesizers, digital and analog audio
 - 🌱 I’m currently learning C# and Go
 - 📫 How to reach me: larsgustav.gudbrandsen@dfo.no && https://social.vivaldi.net/@lagu
 
